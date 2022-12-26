@@ -1,0 +1,1 @@
+Mode, LRL, URL , Atrial Amp, Atrial Pulse Width, Ventrical Amp, Ventrical pulse width, VRP, ARP, Atrial Sensitivity, Ventrical Sensitivitiy, Activity Threshold,Maximum Sensor Rate, Reaction time, response factor, recovery time
